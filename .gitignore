@@ -1,0 +1,5 @@
+data/
+__pycache__/
+results_smoke/
+runs/smoke/
+.DS_Store
